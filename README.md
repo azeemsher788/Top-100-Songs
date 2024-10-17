@@ -19,7 +19,7 @@ This project extracts the top 100 songs from the Billboard Hot 100 chart for a s
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Top-100-Songs.git
+    git clone https://github.com/azeemsher788/Top-100-Songs.git
     cd Top-100-Songs
     ```
 
