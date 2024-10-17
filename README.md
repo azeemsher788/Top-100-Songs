@@ -34,3 +34,7 @@ This project extracts the top 100 songs from the Billboard Hot 100 chart for a s
     SPOTIFY_CLIENT_SECRET=your_client_secret
     SPOTIPY_REDIRECT_URI=your_redirect_uri
     ```
+   
+## License
+
+This project is licensed under the MIT License.
